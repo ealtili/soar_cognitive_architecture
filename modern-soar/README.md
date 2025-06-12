@@ -552,15 +552,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 4. Hugging Face Transformers: https://huggingface.co/docs/transformers/
 5. Vector Database Comparison: https://github.com/vector-databases/vector-databases
 
-## 📞 Support
-
-For questions, issues, or contributions:
-
-- **GitHub Issues**: [Create an issue](https://github.com/yourusername/modern-soar/issues)
-- **Documentation**: [Read the docs](https://modern-soar.readthedocs.io/)
-- **Community**: [Join the discussion](https://discord.gg/modern-soar)
-- **Email**: support@modern-soar.ai
-
+## 
 ---
 
-**Built with ❤️ for the AI research community**
